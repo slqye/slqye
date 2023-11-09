@@ -14,5 +14,3 @@ I'm currently studying at 42 school. I hope my work will be useful to you !
 [![My Skills](https://skills.thijs.gg/icons?i=c,python,unity)](#)
 
 ### 📊 Stats
-
-[![Website](https://github-readme-stats.vercel.app/api?username=0Slaye&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](#)
