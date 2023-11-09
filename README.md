@@ -13,4 +13,4 @@ I'm currently studying at 42 school. I hope my work will be useful to you !
 
 ### ⚙️ Languages and tools
 
-[![My Skills](https://skills.thijs.gg/icons?i=c,python,unity)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c,python,unity)](#)
