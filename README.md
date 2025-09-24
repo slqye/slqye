@@ -10,7 +10,7 @@ I'm currently studying at 42 school. I hope my work will be useful to you !
 
 ### ⚙️ Languages and tools
 
-[![Skills](https://skillicons.dev/icons?i=bash,neovim,c,cpp,python,firebase)](#)
+[![Skills](https://skillicons.dev/icons?i=bash,neovim,c,cpp,python)](#)
 
 ### 🗃️ Stats
 
