@@ -9,6 +9,10 @@ I'm currently studying at 42 school. I hope my work will be useful to you!
 
 [![Skills](https://skillicons.dev/icons?i=bash,neovim,c,cpp,python)](#)
 
-### 🗃️ Stats
+### 🗃️ Stastistics
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=slqye&show_icons=true&theme=github_dark)
+
+### Contributions
+
+![Contributions](https://gitchart-nine.vercel.app/api/og/slqye?color=4682B4)
